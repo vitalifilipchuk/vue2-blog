@@ -7,7 +7,6 @@
 <script>
 // @ is an alias to /src
 import addBlog from '@/components/addBlog.vue'
-import AddBlog from '../components/addBlog.vue'
 
 export default {
   name: 'Home',
