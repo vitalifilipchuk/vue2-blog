@@ -13,12 +13,12 @@
   font-family: Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #000;
 }
 
 #nav {
   padding: 30px;
+  text-align: center;
 
   a {
     font-weight: bold;
